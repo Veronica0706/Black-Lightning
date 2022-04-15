@@ -1,5 +1,5 @@
 build:
   docker:
-    worker: Dockerfile
+    worker: xDockerfile
 run:
    worker: python3 lightningrun.py
